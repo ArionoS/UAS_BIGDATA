@@ -18,7 +18,7 @@ if(temperature.compareTo("Temperature") != 0){
 ### Reducer 
 reducer here will return data that has been mapped to bring up new data, namely the average calculation with the total formula divided by the number of data in the public void reduce code where if the value is less than 6 using the value calculation, the sum will be done and the final result is the total divided with the amount of data that has been calculated in the if function. After that the data will be displayed according to what has been reduced earlier.
 
-### Output
+### Output #
 Run Job : 
 File_jar : used to send the processed target file.jar to the target folder
 Hadoop_username = Our hadoop root name
